@@ -10,4 +10,4 @@ Rasel Ahmed, Nafiz Fahad, Md Saef Ullah Miah, Md. Jakir Hossen, Md. Kishor Morol
 **Reference :**
 Ahmed, R., Fahad, N., Miah, M. S. U., Hossen, M. J., Morol, M. K., Mahmud, M., & Rahman, M. M. (2024). A novel integrated logistic regression model enhanced with recursive feature elimination and explainable artificial intelligence for dementia prediction. Healthcare Analytics, 100362. 
 
-[Link of this Paper](https://www.sciencedirect.com/science/article/pii/S2772442524000649)
+[Full Paper Link](https://www.sciencedirect.com/science/article/pii/S2772442524000649)
