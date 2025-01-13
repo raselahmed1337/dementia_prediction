@@ -12,10 +12,10 @@ Ahmed, R., Fahad, N., Miah, M. S. U., Hossen, M. J., Morol, M. K., Mahmud, M., &
 
 [Full Paper Link](https://www.sciencedirect.com/science/article/pii/S2772442524000649)
 
-**Dataset Collection**
-Reference:
-[1] https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset/data
-[2] Gonzalez, C. I. (2024). Dementia Classification Approach Based on Non-Singleton General Type-2 Fuzzy Reasoning. Axioms, 13(10), 672.
+**Dataset Collection** <br>
+Reference:<br>
+[1] https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset/data <br>
+[2] Gonzalez, C. I. (2024). Dementia Classification Approach Based on Non-Singleton General Type-2 Fuzzy Reasoning. Axioms, 13(10), 672. <br>
 
 [NOTE]: We are not the owner of this dataset. However, the dataset sources added in the reference section. We are uploading the dataset and code here in this repo. for any uncertain events.
 
