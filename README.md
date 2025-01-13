@@ -33,7 +33,7 @@ Sleep Assessment:	Evaluates the quality of the patient’s sleep, a critical hea
 Chronic Conditions:	Records any chronic illnesses the patient has, important for studying comorbidities.<br>
 Dementia Status (Binary):	The target variable, showing whether dementia is present (1) or absent (0).<br>
 
-Reference:<br>
+Dataset Reference:<br>
 [1] https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset/data <br>
 [2] Gonzalez, C. I. (2024). Dementia Classification Approach Based on Non-Singleton General Type-2 Fuzzy Reasoning. Axioms, 13(10), 672. <br>
 
