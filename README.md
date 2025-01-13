@@ -35,7 +35,7 @@ Dementia Status (Binary):	The target variable, showing whether dementia is prese
 
 Dataset Reference:<br>
 [1] https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset/data <br>
-[2] Gonzalez, C. I. (2024). Dementia Classification Approach Based on Non-Singleton General Type-2 Fuzzy Reasoning. Axioms, 13(10), 672. <br>
+[2] Gonzalez, C. I. (2024). Dementia Classification Approach Based on Non-Singleton General Type-2 Fuzzy Reasoning. Axioms, 13(10), 672. DOI: https://doi.org/10.3390/axioms13100672<br>
 
 [NOTE]: We are not the owner of this dataset. However, the dataset sources added in the reference section. We are uploading the dataset and code here in this repo. for further study.
 
