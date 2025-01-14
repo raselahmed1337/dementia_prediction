@@ -1,4 +1,4 @@
-## **Dataset Description** <br>
+## Dataset Description <br>
 | Feature Name                 | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
 | Diabetes Status (Binary)     | Indicates whether the patient has been diagnosed with diabetes (1 for yes, 0 for no). |
