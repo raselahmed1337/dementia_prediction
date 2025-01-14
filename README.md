@@ -1,7 +1,4 @@
-## A novel integrated logistic regression model enhanced with recursive feature elimination and explainable artificial intelligence for dementia prediction.
-[Full Paper Link](https://www.sciencedirect.com/science/article/pii/S2772442524000649)
-
-**Dataset Description** <br>
+## **Dataset Description** <br>
 | Feature Name                 | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
 | Diabetes Status (Binary)     | Indicates whether the patient has been diagnosed with diabetes (1 for yes, 0 for no). |
@@ -29,12 +26,13 @@
 | Chronic Conditions           | Records any chronic illnesses the patient has, important for studying comorbidities. |
 | Dementia Status (Binary)     | The target variable, showing whether dementia is present (1) or absent (0). |
 
+> [!IMPORTANT]
+> The dataset can be downloaded from this repository.
 
-Dataset Source References:<br>
+<br>
+## Dataset Source References:<br>
 [1] https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset/data <br>
 [2] Gonzalez, C. I. (2024). Dementia Classification Approach Based on Non-Singleton General Type-2 Fuzzy Reasoning. Axioms, 13(10), 672. DOI: https://doi.org/10.3390/axioms13100672<br>
 
 > [!NOTE]
 > We are not the owner/publisher of this dataset. However, the dataset sources{Kaggle} added in the reference section. We are uploading the dataset and our experiment code here in this repo. for further study.
-
-
