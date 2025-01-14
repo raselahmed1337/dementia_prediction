@@ -29,7 +29,6 @@
 > [!IMPORTANT]
 > The dataset can be downloaded from this repository.
 
-<br>
 ## Dataset Source References:<br>
 [1] https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset/data <br>
 [2] Gonzalez, C. I. (2024). Dementia Classification Approach Based on Non-Singleton General Type-2 Fuzzy Reasoning. Axioms, 13(10), 672. DOI: https://doi.org/10.3390/axioms13100672<br>
